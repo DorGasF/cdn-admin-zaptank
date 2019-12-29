@@ -5,7 +5,7 @@
  * Licensed under the MIT License: http://www.opensource.org/licenses/mit-license.php
 */
 		  
-var tb_pathToImage = "../Images/loadingAnimation.gif";
+var tb_pathToImage = "https://cdn.jsdelivr.net/gh/dorgasf/cdn-admin-zaptank@master/images/loadingAnimation.gif";
 
 /*!!!!!!!!!!!!!!!!! edit below this line at your own risk !!!!!!!!!!!!!!!!!!!!!!!*/
 
